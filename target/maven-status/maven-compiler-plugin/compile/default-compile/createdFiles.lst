@@ -1,0 +1,7 @@
+br\com\provider\jwt\model\User$Context.class
+br\com\provider\jwt\model\User.class
+br\com\provider\jwt\service\UserDeserializer.class
+br\com\provider\jwt\AppStart.class
+br\com\provider\jwt\controller\JwtController.class
+br\com\provider\jwt\service\UserService.class
+br\com\provider\jwt\model\Role.class
